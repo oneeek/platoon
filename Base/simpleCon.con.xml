@@ -1,0 +1,10 @@
+<connections>
+    <connection from="E10" to="E03"/>
+    <connection from="E10" to="E02"/>
+    <connection from="E30" to="E01"/>
+    <connection from="E30" to="E04"/>
+    <connection from="E20" to="E04"/>
+    <connection from="E20" to="E03"/>
+    <connection from="E40" to="E02"/>
+    <connection from="E40" to="E01"/>
+</connections>

@@ -1,0 +1,31 @@
+<routes>
+    <vType id="no" color="255,0,0" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeNS" color="0,255,0" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeNE" color="0,80,0" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeEW" color="0,0,255" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeES" color="0,0,80" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeSN" color="255,255,255" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeSW" color="80,80,80" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeWE" color="255,0,255" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+    <vType id="typeWN" color="80,0,80" lcStrategic="-1" lcCooperative="-1" lcSpeedGain="0" lcKeepRight="0" />
+
+    <flow id="1" from="E10" to="E03" type="no" begin="0" end="4000" number="341" departSpeed="max" departLane="0" arrivalLane="0" />
+    <flow id="2" from="E10" to="E03" type="no" begin="0" end="4000" number="347" departSpeed="max" departLane="1" arrivalLane="1" />
+    <flow id="3" from="E10" to="E03" type="no" begin="0" end="4000" number="329" departSpeed="max" departLane="2" arrivalLane="2" />
+    <flow id="4" from="E10" to="E02" type="no" begin="0" end="4000" number="216" departSpeed="max" departLane="3" arrivalLane="2" />
+
+    <flow id="5" from="E20" to="E04" type="no" begin="0" end="4000" number="397" departSpeed="max" departLane="0" arrivalLane="0" />
+    <flow id="6" from="E20" to="E04" type="no" begin="0" end="4000" number="390" departSpeed="max" departLane="1" arrivalLane="1" />
+    <flow id="7" from="E20" to="E04" type="no" begin="0" end="4000" number="390" departSpeed="max" departLane="2" arrivalLane="2" />
+    <flow id="8" from="E20" to="E03" type="no" begin="0" end="4000" number="252" departSpeed="max" departLane="3" arrivalLane="2" />
+
+    <flow id="9" from="E30" to="E01" type="no" begin="0" end="4000" number="395" departSpeed="max" departLane="0" arrivalLane="0" />
+    <flow id="10" from="E30" to="E01" type="no" begin="0" end="4000" number="373" departSpeed="max" departLane="1" arrivalLane="1" />
+    <flow id="11" from="E30" to="E01" type="no" begin="0" end="4000" number="374" departSpeed="max" departLane="2" arrivalLane="2" />
+    <flow id="12" from="E30" to="E04" type="no" begin="0" end="4000" number="267" departSpeed="max" departLane="3" arrivalLane="2" />
+
+    <flow id="13" from="E40" to="E02" type="no" begin="0" end="4000" number="419" departSpeed="max" departLane="0" arrivalLane="0" />
+    <flow id="14" from="E40" to="E02" type="no" begin="0" end="4000" number="413" departSpeed="max" departLane="1" arrivalLane="1" />
+    <flow id="15" from="E40" to="E02" type="no" begin="0" end="4000" number="423" departSpeed="max" departLane="2" arrivalLane="2" />
+    <flow id="16" from="E40" to="E01" type="no" begin="0" end="4000" number="290" departSpeed="max" departLane="3" arrivalLane="2" />
+</routes>

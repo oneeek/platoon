@@ -1,0 +1,31 @@
+<additional>
+    <laneAreaDetector id="0" lanes="E10_0" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="1" lanes="E10_1" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="2" lanes="E10_2" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="3" lanes="E10_3" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="4" lanes="E20_0" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="5" lanes="E20_1" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="6" lanes="E20_2" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="7" lanes="E20_3" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="8" lanes="E30_0" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="9" lanes="E30_1" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="10" lanes="E30_2" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="11" lanes="E30_3" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="12" lanes="E40_0" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="13" lanes="E40_1" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="14" lanes="E40_2" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+    <laneAreaDetector id="15" lanes="E40_3" pos="0" endPos="484.80" freq="1" file="OutputE2.out.xml" friendlyPos="x" />
+
+    <inductionLoop id="0" lane="E01_0" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="1" lane="E01_1" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="2" lane="E01_2" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="3" lane="E02_0" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="4" lane="E02_1" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="5" lane="E02_2" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="6" lane="E03_0" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="7" lane="E03_1" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="8" lane="E03_2" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="9" lane="E04_0" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="10" lane="E04_1" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+    <inductionLoop id="11" lane="E04_2" pos="0" freq="1" file="OutputE1.out.xml" friendlyPos="x" />
+</additional>

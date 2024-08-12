@@ -1,0 +1,14 @@
+<configuration>
+    <input>
+        <net-file value="simpleNet.net.xml"/>
+        <route-files value="simpleRou.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="4000"/>
+        <step-length value="0.1"/>
+    </time>
+    <report>
+        <no-step-log value="true"/>
+    </report>
+</configuration>
